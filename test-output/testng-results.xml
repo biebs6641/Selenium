@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-24T00:50:52 IST" name="Suite" finished-at="2025-10-24T00:51:07 IST" duration-ms="14572">
+  <suite started-at="2025-10-29T23:29:18 IST" name="Suite" finished-at="2025-10-29T23:29:36 IST" duration-ms="17957">
     <groups>
     </groups>
-    <test started-at="2025-10-24T00:50:52 IST" name="Test" finished-at="2025-10-24T00:51:07 IST" duration-ms="14572">
+    <test started-at="2025-10-29T23:29:18 IST" name="Test" finished-at="2025-10-29T23:29:36 IST" duration-ms="17957">
       <class name="com.test.HomePageTest">
-        <test-method signature="logout()[pri:0, instance:com.test.HomePageTest@4b2bac3f]" started-at="2025-10-24T00:51:06 IST" name="logout" finished-at="2025-10-24T00:51:07 IST" duration-ms="1223" status="PASS">
+        <test-method signature="logout()[pri:0, instance:com.test.HomePageTest@7a8c8dcf]" started-at="2025-10-29T23:29:35 IST" name="logout" finished-at="2025-10-29T23:29:36 IST" duration-ms="1317" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
       </class> <!-- com.test.HomePageTest -->
       <class name="com.test.LoginTest">
-        <test-method is-config="true" signature="initBrowser()[pri:0, instance:com.test.LoginTest@198b6731]" started-at="2025-10-24T00:50:50 IST" name="initBrowser" finished-at="2025-10-24T00:50:52 IST" duration-ms="2064" status="PASS">
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:com.test.LoginTest@ba2f4ec]" started-at="2025-10-29T23:29:16 IST" name="initBrowser" finished-at="2025-10-29T23:29:18 IST" duration-ms="2684" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBrowser -->
-        <test-method signature="loginwith()[pri:0, instance:com.test.LoginTest@198b6731]" started-at="2025-10-24T00:50:52 IST" name="loginwith" finished-at="2025-10-24T00:51:06 IST" duration-ms="13306" status="PASS">
+        <test-method signature="loginwith()[pri:0, instance:com.test.LoginTest@ba2f4ec]" started-at="2025-10-29T23:29:18 IST" name="loginwith" finished-at="2025-10-29T23:29:35 IST" duration-ms="16608" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginwith -->

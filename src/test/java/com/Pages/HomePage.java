@@ -34,6 +34,8 @@ public class HomePage {
 		
 		logOut.click();
 		ExtentReportUtils.addStep("LOG OUT IS CLICKED");
+		
+		BaseClass.driver.quit();
 
 	}
 
