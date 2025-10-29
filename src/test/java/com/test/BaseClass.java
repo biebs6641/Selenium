@@ -22,6 +22,7 @@ public class BaseClass {
 		
 		ExtentReportUtils.setUpReport();
 		
+		//
 		WebDriverManager.chromedriver().setup();
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--start-maximized");
